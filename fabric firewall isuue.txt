@@ -1,0 +1,9 @@
+ Could not resolve io.fabric.tools:gradle:1.22.0.
+     Required by:
+         JBL_Connect_Plus:app:unspecified
+      > Could not resolve io.fabric.tools:gradle:1.22.0.
+         > Could not get resource 'https://maven.fabric.io/public/io/fabric/tools/gradle/1.22.0/gradle-1.22.0.pom'.
+            > Could not GET 'https://maven.fabric.io/public/io/fabric/tools/gradle/1.22.0/gradle-1.22.0.pom'.
+               > sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+* Try:
